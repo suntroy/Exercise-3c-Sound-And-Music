@@ -28,14 +28,6 @@ Sound effects created in ChipTone
 
 Adding a face, Shaders, Powerups, etc.
 
-## Created by 
+## Created by
 
 Sunny Troyer
-
-## Future Development
-
-Adding a face, Comet trail, Music and Sound, Shaders, etc.
-
-## Created by 
-
-Nathan Mishler
